@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishnu-PP
 - 👀 I’m interested in Web Devlopement, Android Developement, Python 
-- 🌱 I’m currently learning Mern Stack Development.
+- 🌱 I’m currently learning Mea(r)n Stack Development.
 - 💞️ Reach me at https://www.linkedin.com/in/vishnu-pp/
 
 <!---
