@@ -1,8 +1,25 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<div align="center">
+  <img height="150" src="./images/devicon.png"  />
+</div>
+<div align="center">
+  <a href="www.linkedin.com/in/vishnu-pp" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:vishnuviswanath.27@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vishnu-PP.Vishnu-PP&"  />
+</div>
 
 ###
+###
+<h1 align="center">Hey 👋What's Up?</h1>
 <p>
-  Full Stack Developer specializing in React.js, Node.js, and Shopify app development.
+  Im a Full Stack Developer specializing in React.js, Node.js, and Shopify app development.
   Experienced in building scalable web applications, custom product logic, and API-driven systems.
   Currently leading a Shopify-focused team, contributing to both development and coordination.
   Strong focus on clean code, maintainability, and handling real-world edge cases.
@@ -74,14 +91,7 @@
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/vishnu-pp" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:vishnuviswanath.27@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -101,13 +111,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vishnu-PP/Vishnu-PP/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vishnu-PP.Vishnu-PP&"  />
-</div>
-
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
