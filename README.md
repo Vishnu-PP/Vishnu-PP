@@ -1,6 +1,12 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
+<p>
+  Full Stack Developer specializing in React.js, Node.js, and Shopify app development.
+  Experienced in building scalable web applications, custom product logic, and API-driven systems.
+  Currently leading a Shopify-focused team, contributing to both development and coordination.
+  Strong focus on clean code, maintainability, and handling real-world edge cases.
+</p>
 <h3 align="left">🛠 Language and tools</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
