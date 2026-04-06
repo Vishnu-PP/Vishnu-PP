@@ -2,7 +2,7 @@
   <img height="150" src="./images/devicon.png"  />
 </div>
 <div align="center">
-  <a href="www.linkedin.com/in/vishnu-pp" target="_blank">
+  <a href="[www.linkedin.com/in/vishnu-pp](https://www.linkedin.com/in/vishnu-pp/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:vishnuviswanath.27@gmail.com" target="_blank">
